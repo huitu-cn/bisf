@@ -1,0 +1,27 @@
+{
+  "name": "@huitu/bisf",
+  "version": "0.0.1",
+  "description": "HUITU nodejs后端api服务框架",
+  "main": "index.js",
+  "author": "zhw@huitu.com.cn",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "HTL",
+  "dependencies": {
+    "log4js": "^3.0.6",
+    "moment": "^2.22.2",
+    "restify": "^7.2.3",
+    "restify-cors-middleware": "^1.1.1",
+    "restify-cookies": "^0.2.5",
+    "passport": "^0.4.0",
+    "passport-http-bearer": "^1.0.1",
+    "passport-local": "^1.0.0",
+    "async-redis": "^1.1.4",
+    "pako": "^1.0.6",
+    "lodash": "^4.17.11",
+    "mysql": "2.16.0",
+    "dompurify": "^1.0.8",
+    "jsdom": "^13.0.0"
+  }
+}
