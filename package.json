@@ -1,5 +1,5 @@
 {
-  "name": "@huitu/bisf",
+  "name": "@huitu-bisf",
   "version": "0.0.1",
   "description": "HUITU nodejs后端api服务框架",
   "main": "index.js",
